@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Educodev
+- 👀 I’m interested in learn to use this platform
+- 🌱 I am currently a programmer of mobile apps for IOS with swift.
+- 💞️ I'm thinking of collaborating with the community of developers of this language, contributing ideas on how
+-  to get inspired when practicing the swift language.
